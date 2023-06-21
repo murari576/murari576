@@ -1,4 +1,4 @@
-## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Parth!](https://github.com/parth-27) !!
+## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Parth!](https://github.com/murari576) !!
 
 </h2>
 
@@ -6,7 +6,18 @@
 
 ## About Me
 
-Hey My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+♂️ Pronouns (He/His/Him)
+📍 I live in Kolkata, India
+I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS.
+I usually work with design systems and ui-component based react projects and make complex and beautiful components.
+I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
+My Tech Stack: NextJS, TypeScript, TailwindCSS, Figma
+Languages I know: JavaScript, TypeScript, Python, C/C++, Java, SQL, HTML, CSS/SCSS
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+
 
 
 ## Coding Profiles
