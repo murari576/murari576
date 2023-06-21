@@ -26,7 +26,7 @@
   <img  alt="Murari's Leetcode Profile" width="35px" src="https://www.svgrepo.com/show/306328/leetcode.svg" />
 </a>
 
-<p>                                            </p>
+<p>                     </p>
 <a href="https://auth.geeksforgeeks.org/user/lovemurari2018/practice">
   <img  alt="Murari's GFG Profile" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" />
 </a>
