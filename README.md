@@ -8,14 +8,13 @@
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-♂️ Pronouns (He/His/Him)
-📍 I live in Kolkata, India
-<br>
-I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS.
-I usually work with design systems and ui-component based react projects and make complex and beautiful components.
-I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.
-My Tech Stack: NextJS, TypeScript, TailwindCSS, Figma
-Languages I know: JavaScript, TypeScript, Python, C/C++, Java, SQL, HTML, CSS/SCSS
+♂️ Pronouns (He/His/Him)<br>
+📍 I live in Bihar, India<br>
+I am currently working with technologies based on Javascript.<br> Technologies such as ReactJS, NextJS, NodeJS.<br>
+I usually work with design systems and ui-component based react projects and make complex and beautiful components.<br>
+I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.<br>
+My Tech Stack: NextJS, TypeScript, TailwindCSS, Figma<br>
+Languages I know: JavaScript, TypeScript, Python, C/C++, Java, SQL, HTML, CSS/SCSS<br>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 
