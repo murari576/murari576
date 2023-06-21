@@ -21,6 +21,10 @@ I do Product Design, Frontend Development, UI Engineering, Design Systems Engine
 My Tech Stack: NextJS, TypeScript, TailwindCSS, Figma
 Languages I know: JavaScript, TypeScript, Python, C/C++, Java, SQL, HTML, CSS/SCSS
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+<hr/>
+
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
 <table>
   <tbody>
     <tr valign="top">
@@ -82,5 +86,4 @@ Languages I know: JavaScript, TypeScript, Python, C/C++, Java, SQL, HTML, CSS/SC
     </tr>
   </tbody>
 </table>
-
------------------------------------------------------------------------------------------------------------------------------------
+<hr>
