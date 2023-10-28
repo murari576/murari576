@@ -14,7 +14,7 @@
 👉I usually work with design systems and ui-component based react projects and make complex and beautiful components.<br>
 👉I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.<br>
 👉My Tech Stack: NextJS, ReactJS, NodeJS, ExpressJs, TypeScript, TailwindCSS, Figma<br>
-👉Languages I know:  C/C++, SQL, HTML, CSS/SCSS, JavaScript, TypeScript<br><br>
+👉Languages I know: C++, SQL, HTML, CSS, JavaScript <br><br>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 
