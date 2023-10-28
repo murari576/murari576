@@ -58,9 +58,9 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Python</strong>
+        <span><strong>C++</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+        <img height="64px" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png">
       </td>
       <td width="25%" align="center">
         <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
