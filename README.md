@@ -1,4 +1,4 @@
-![image](https://github.com/murari576/murari576/assets/109016399/6e740b0a-6e80-43f2-a8ca-e197d2b24bd0)## Hey 👋, I'm [Murari!](https://github.com/murari576) !!
+## Hey 👋, I'm [Murari!](https://github.com/murari576) !!
 
 
 
