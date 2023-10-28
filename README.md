@@ -82,8 +82,8 @@
         <img height="64px" src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+        <span><strong>Node</strong></span><br><br><br>
+        <img height="64px" src="https://keenethics.com/wp-content/uploads/2021/08/Node.js_logo_2015-1-2.png">
       </td>
       <td width="25%" align="center">
         <span><strong>MySql</strong></span><br><br><br>
