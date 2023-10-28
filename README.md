@@ -39,6 +39,10 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
+        <span><strong>C++</strong></span><br><br><br>
+        <img height="64px" src="https://media.sketchfab.com/models/1b277fc32bbc451fa6f40e298996ba91/thumbnails/1c9c06b1fa3c4aaaa94a70bc7bfc3c7e/d369fbc48d5b479bb657791e4026ca34.jpeg">
+      </td>
+      <td width="25%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
@@ -50,11 +54,6 @@
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="25%" align="center">
-        <span><strong>React</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -62,18 +61,19 @@
         </span><br><br><br>
         <img height="64px" src="https://stackdiary.com/wp-content/uploads/2022/10/Tailwind-CSS-15-Component-Libraries-UI-Kits.png">
       </td>
+        <td width="25%" align="center">
+        <span><strong>React</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+      </td>
       <td width="25%" align="center">
         <span><strong>𝗘xpress</strong>
         </span><br><br><br>
         <img height="64px" src="https://miro.medium.com/v2/resize:fit:805/1*t40l2rOzSEXZbvGWClW-Pw.png">
       </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <td width="25%" align="center">
+        <span><strong>Node</strong></span><br><br><br>
+        <img height="64px" src="https://keenethics.com/wp-content/uploads/2021/08/Node.js_logo_2015-1-2.png">
       </td>
     </tr>
     <tr valign="top">
@@ -82,16 +82,16 @@
         <img height="64px" src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>Node</strong></span><br><br><br>
-        <img height="64px" src="https://keenethics.com/wp-content/uploads/2021/08/Node.js_logo_2015-1-2.png">
-      </td>
-      <td width="25%" align="center">
         <span><strong>MySql</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
       </td>
-      <td width="25%" align="center">
-        <span><strong>C++</strong></span><br><br><br>
-        <img height="64px" src="https://media.sketchfab.com/models/1b277fc32bbc451fa6f40e298996ba91/thumbnails/1c9c06b1fa3c4aaaa94a70bc7bfc3c7e/d369fbc48d5b479bb657791e4026ca34.jpeg">
+        <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td> 
+        <td width="25%" align="center">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
   </tbody>
