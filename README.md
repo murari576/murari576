@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Murari!](https://github.com/murari576) !!
+![image](https://github.com/murari576/murari576/assets/109016399/6e740b0a-6e80-43f2-a8ca-e197d2b24bd0)## Hey 👋, I'm [Murari!](https://github.com/murari576) !!
 
 
 
@@ -23,7 +23,7 @@
 ## Coding Profiles
 
 <a href="https://leetcode.com/murari576/">
-  <img  alt="Murari's Leetcode Profile" width="35px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fshop%2Fleetcode%2Bstickers&psig=AOvVaw08Jpr2DUUXYWy1dO5tNxoa&ust=1698597861291000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiWxqeYmYIDFQAAAAAdAAAAABAI" />
+  <img  alt="Murari's Leetcode Profile" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1734px-LeetCode_logo_white_no_text.svg.png" />
 </a>
 
 <p>                     </p>
