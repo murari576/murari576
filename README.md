@@ -58,9 +58,9 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>C++</strong>
+        <span><strong>Tailwind</strong>
         </span><br><br><br>
-        <img height="64px" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png">
+        <img height="64px" src="https://stackdiary.com/wp-content/uploads/2022/10/Tailwind-CSS-15-Component-Libraries-UI-Kits.png">
       </td>
       <td width="25%" align="center">
         <span><strong>𝗘xpress</strong>
