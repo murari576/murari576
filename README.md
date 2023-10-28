@@ -79,7 +79,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span><strong>MongoDB</strong></span><br><br><br>
-        <img height="64px" src="https://www.svgrepo.com/show/354090/mongodb.svg">
+        <img height="64px" src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png">
       </td>
       <td width="25%" align="center">
         <span><strong>Java</strong></span><br><br><br>
