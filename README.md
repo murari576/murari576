@@ -13,7 +13,7 @@
 👉I am currently working with technologies based on Javascript.<br> 👉Technologies such as ReactJS, NextJS, NodeJS.<br>
 👉I usually work with design systems and ui-component based react projects and make complex and beautiful components.<br>
 👉I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff.<br>
-👉My Tech Stack: NextJS, TypeScript, TailwindCSS, Figma<br>
+👉My Tech Stack: NextJS, ReactJS, NodeJS, ExpressJs, TypeScript, TailwindCSS, Figma<br>
 👉Languages I know:  C/C++, SQL, HTML, CSS/SCSS, JavaScript, TypeScript<br><br>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
