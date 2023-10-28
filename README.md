@@ -23,7 +23,7 @@
 ## Coding Profiles
 
 <a href="https://leetcode.com/murari576/">
-  <img  alt="Murari's Leetcode Profile" width="35px" src="https://www.svgrepo.com/show/306328/leetcode.svg" />
+  <img  alt="Murari's Leetcode Profile" width="35px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fshop%2Fleetcode%2Bstickers&psig=AOvVaw08Jpr2DUUXYWy1dO5tNxoa&ust=1698597861291000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiWxqeYmYIDFQAAAAAdAAAAABAI" />
 </a>
 
 <p>                     </p>
