@@ -78,8 +78,8 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="[https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg](https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png)">
+        <span><strong>MongoDB</strong></span><br><br><br>
+        <img height="64px" src="https://www.svgrepo.com/show/354090/mongodb.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Java</strong></span><br><br><br>
